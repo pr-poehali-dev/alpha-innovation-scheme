@@ -23,7 +23,7 @@ function App() {
           <p className="text-primary tracking-[0.3em] uppercase text-sm mb-6">Надёжно. Красиво. На века.</p>
 
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-foreground mb-6 leading-tight">
-            <span className="text-gold-gradient">Золотой</span>Забор
+            <span className="text-gold-gradient">Line</span> Group
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed mb-12">
@@ -180,7 +180,7 @@ function App() {
           <div className="flex flex-col items-center gap-6">
             <div className="flex items-center gap-4">
               <div className="w-12 h-px bg-primary" />
-              <span className="font-serif text-xl text-foreground">ЗолотойКапитал</span>
+              <span className="font-serif text-xl text-foreground">Line Group</span>
               <div className="w-12 h-px bg-primary" />
             </div>
 
