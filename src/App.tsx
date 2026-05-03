@@ -20,14 +20,14 @@ function App() {
             </div>
           </div>
 
-          <p className="text-primary tracking-[0.3em] uppercase text-sm mb-6">С 2024 года</p>
+          <p className="text-primary tracking-[0.3em] uppercase text-sm mb-6">Надёжно. Красиво. На века.</p>
 
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-foreground mb-6 leading-tight">
-            <span className="text-gold-gradient">Золотой</span>Капитал
+            <span className="text-gold-gradient">Золотой</span>Забор
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed mb-12">
-            Эксклюзивный клуб для взыскательных инвесторов, открывающий доступ к уникальным возможностям в альтернативных активах.
+            Строительная компания по установке заборов, ворот и тротуарной плитки. Качественные материалы, опытные мастера, гарантия на все работы.
           </p>
 
           {/* Decorative bottom element */}
@@ -60,17 +60,17 @@ function App() {
 
           <div className="grid md:grid-cols-2 gap-16 items-center">
             <div>
-              <p className="text-primary tracking-[0.2em] uppercase text-sm mb-4">Наша философия</p>
+              <p className="text-primary tracking-[0.2em] uppercase text-sm mb-4">О нас</p>
               <h2 className="font-serif text-4xl md:text-5xl text-foreground mb-6 leading-tight text-balance">
-                Где видение встречает возможности
+                Ваш участок — наша забота
               </h2>
             </div>
             <div className="space-y-6">
               <p className="text-muted-foreground leading-relaxed text-lg">
-                В мире обычных инвестиций мы ищем исключительное. ЗолотойКапитал объединяет избранный круг дальновидных инвесторов, которые понимают, что истинное богатство строится через доступ к возможностям, недоступным массовому рынку.
+                Мы специализируемся на благоустройстве частных домов, дач и коттеджных посёлков. Устанавливаем надёжные заборы из профнастила, сетки и евроштакетника, монтируем автоматические ворота и калитки.
               </p>
               <p className="text-muted-foreground leading-relaxed text-lg">
-                От музейного изобразительного искусства до винтажных автомобилей высшего класса, от редких коллекционных предметов до новых альтернативных активов — мы отбираем, проверяем и представляем только исключительное.
+                Укладываем тротуарную плитку — дорожки, площадки, парковки. Работаем аккуратно, соблюдаем сроки и даём гарантию на все виды работ.
               </p>
             </div>
           </div>
